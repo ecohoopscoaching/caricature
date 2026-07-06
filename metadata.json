@@ -1,0 +1,8 @@
+{
+  "name": "The Caricaturist",
+  "description": "Transform your portraits into hyper-realistic distortions, legendary 90s rap poster paintings, or bold vector illustrations using the power of Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
